@@ -96,7 +96,7 @@ Subscribe to get notified when recordings go live.
 
 - **Frequency:** Quarterly — held in Valencia, Spain
 - **Website:** [cloudnativevalencia.com](https://cloudnativevalencia.com)
-- **CFP / Speaker Info:** [ocgroups.dev/cncf/group/y8z7qfd](https://ocgroups.dev/cncf/group/y8z7qfd)
+- **CFP:** [https://sessionize.com/cloud-native-valencia-2026](https://sessionize.com/cloud-native-valencia-2026)
 - **Organized by:** Volunteers of the CNCF
 
 ---
