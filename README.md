@@ -23,8 +23,8 @@ Here you’ll find slides, video recordings, code samples, and additional resour
 | 4 | Nov 27, 2025 | Open Source Cloud-Native Observability with VictoriaMetrics and OpenTelemetry | [Diana Todea](https://www.linkedin.com/in/diana-todea-b2a79968/) | Session | `#observability` `#open-source` | [Slides](slides/OSS-Cloud-Native-Observability-with-VictoriaMetrics-and-OTel_Diana-Todea.pdf) | | |
 | 5 | Nov 27, 2025 | Kubernetes and AI to Protect Our Forests: A Cloud Native Infrastructure for Wildfire Prevention | [Andrea Giardini](https://www.linkedin.com/in/giardiniandrea/) | Session | `#kubernetes-core` `#mlops` | [Slides](slides/Kubernetes-and-AI-To-Protect-Our-Forests_Andrea-Giardini.pdf) | | |
 | 6 | Nov 27, 2025 | Incubadora IATecUV — FPCUV (Fundación Parc Científic de la Universitat de València) | [Israel Juma](https://www.linkedin.com/in/israel-juma-435962b7), Anna Aguilar | Session | `#open-source` | [Slides](slides/Incubadora-IatecUV_Israel-Juma.pdf) | | |
-| 7 | May 8, 2025 | InstructLab – A Community-Based Approach to Building Open-Source LLMs | [Mario Vazquez](https://www.linkedin.com/in/mariovazquezcebrian/) | Session | `#mlops` `#open-source` | | | |
-| 8 | May 8, 2025 | KubeCon EU 2025 Recap & What You Missed from the Event | [Chad M. Crowell](https://linkedin.com/in/chadmcrowell) | Session | `#open-source` `#kubernetes-core` | | | |
+| 7 | May 8, 2025 | InstructLab – A Community-Based Approach to Building Open-Source LLMs | [Mario Vazquez](https://www.linkedin.com/in/mariovazquezcebrian/) | Session | `#mlops` `#open-source` | [Slides](slides/Introduction-to-LLM-Fine-Tuning-with-InstructLab.pdf) | | |
+| 8 | May 8, 2025 | KubeCon EU 2025 Recap & What You Missed from the Event | [Chad M. Crowell](https://linkedin.com/in/chadmcrowell) | Session | `#open-source` `#kubernetes-core` | [Slides](slides/KubeCon-EU-25-Recap-Chad-M-Crowell.pdf) | | |
 | 9 | Jan 23, 2025 | OpenTelemetry Workshop: Why OTLP Matters, and Where to Start | [Juliano Costa](https://www.linkedin.com/in/julianocosta89/) | Workshop | `#observability` `#workshops` | | | |
 
 ---
