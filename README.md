@@ -97,7 +97,7 @@ Subscribe to get notified when recordings go live.
 - **Frequency:** Quarterly — held in Valencia, Spain
 - **Website:** [cloudnativevalencia.com](https://cloudnativevalencia.com)
 - **CFP:** [https://sessionize.com/cloud-native-valencia-2026](https://sessionize.com/cloud-native-valencia-2026)
-- **Organized by:** Volunteers of the CNCF
+- **Organized by:** [Jade Lassery](https://www.linkedin.com/in/jadelassery/), [Luiz Bernardo Levenhagen](https://www.linkedin.com/in/blevenhagen/), and [Chad M. Crowell](https://linkedin.com/in/chadmcrowell)
 
 ---
 
