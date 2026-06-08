@@ -17,12 +17,12 @@ Here you’ll find slides, video recordings, code samples, and additional resour
 
 | # | Event | Title | Speaker(s) | Type | Topics | Slides | Video | Code |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Apr 23, 2026 | Surviving Day 2: Picking the Right Tool to Secure Your Kubernetes Habitat | [Bruno Gabriel da Silva](https://www.linkedin.com/in/bgsilvait/) | Session | `#security` `#kubernetes-core` | | | |
+| 1 | Apr 23, 2026 | Surviving Day 2: Picking the Right Tool to Secure Your Kubernetes Habitat | [Bruno Gabriel da Silva](https://www.linkedin.com/in/bgsilvait/) | Session | `#security` `#kubernetes-core` | [Slides](slides/Surviving-Day-2-Picking-the-Right-Tool-Bruno-Gabriel-da-Silva.pdf) | | |
 | 2 | Apr 23, 2026 | Intro to vLLM and Project Update | [Nelson Paez](https://www.linkedin.com/in/nelson-lombo-paez-a91146155/) | Session | `#mlops` | | | |
 | 3 | Apr 23, 2026 | Building a Self-Healing Platform on Kubernetes | [Shani Kazaz](https://www.linkedin.com/in/shani-kazaz/) | Session | `#platform-engineering` `#kubernetes-core` | | | |
-| 4 | Nov 27, 2025 | Open Source Cloud-Native Observability with VictoriaMetrics and OpenTelemetry | [Diana Todea](https://www.linkedin.com/in/diana-todea-b2a79968/) | Session | `#observability` `#open-source` | | | |
-| 5 | Nov 27, 2025 | Kubernetes and AI to Protect Our Forests: A Cloud Native Infrastructure for Wildfire Prevention | [Andrea Giardini](https://www.linkedin.com/in/giardiniandrea/) | Session | `#kubernetes-core` `#mlops` | | | |
-| 6 | Nov 27, 2025 | Incubadora IATecUV — FPCUV (Fundación Parc Científic de la Universitat de València) | [Israel Juma](https://www.linkedin.com/in/israel-juma-435962b7), Anna Aguilar | Session | `#open-source` | | | |
+| 4 | Nov 27, 2025 | Open Source Cloud-Native Observability with VictoriaMetrics and OpenTelemetry | [Diana Todea](https://www.linkedin.com/in/diana-todea-b2a79968/) | Session | `#observability` `#open-source` | [Slides](slides/OSS-Cloud-Native-Observability-with-VictoriaMetrics-and-OTel_Diana-Todea.pdf) | | |
+| 5 | Nov 27, 2025 | Kubernetes and AI to Protect Our Forests: A Cloud Native Infrastructure for Wildfire Prevention | [Andrea Giardini](https://www.linkedin.com/in/giardiniandrea/) | Session | `#kubernetes-core` `#mlops` | [Slides](slides/Kubernetes-and-AI-To-Protect-Our-Forests_Andrea-Giardini.pdf) | | |
+| 6 | Nov 27, 2025 | Incubadora IATecUV — FPCUV (Fundación Parc Científic de la Universitat de València) | [Israel Juma](https://www.linkedin.com/in/israel-juma-435962b7), Anna Aguilar | Session | `#open-source` | [Slides](slides/Incubadora-IatecUV_Israel-Juma.pdf) | | |
 | 7 | May 8, 2025 | InstructLab – A Community-Based Approach to Building Open-Source LLMs | [Mario Vazquez](https://www.linkedin.com/in/mariovazquezcebrian/) | Session | `#mlops` `#open-source` | | | |
 | 8 | May 8, 2025 | KubeCon EU 2025 Recap & What You Missed from the Event | [Chad M. Crowell](https://linkedin.com/in/chadmcrowell) | Session | `#open-source` `#kubernetes-core` | | | |
 | 9 | Jan 23, 2025 | OpenTelemetry Workshop: Why OTLP Matters, and Where to Start | [Juliano Costa](https://www.linkedin.com/in/julianocosta89/) | Workshop | `#observability` `#workshops` | | | |
