@@ -17,10 +17,10 @@ Here you’ll find slides, video recordings, code samples, and additional resour
 
 | # | Event | Title | Speaker(s) | Type | Topics | Slides | Video | Code |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Jul 9, 2026 | Intro to Locos de la IA | Pedro Bisbal | Lightning Talk | `#open-source` | [Slides](slides/Presentación-Los-Locos-de-la-IA.pdf) | | |
-| 2 | Jul 9, 2026 | Booting into Kubernetes with an Immutable OS | [Santiago Merlos](https://www.linkedin.com/in/smerlos/) | Session | `#kubernetes-core` `#platform-engineering` | | | |
-| 3 | Jul 9, 2026 | The Life of a Metric | [Jesús Espino](https://www.linkedin.com/in/jesus-espino/) | Session | `#observability` | [Slides](slides/Life-of-a-Metric-by-Jesus-Espino.pdf) | | |
-| 4 | Jul 9, 2026 | The New Paradigm of AI Development | [William Brisa](https://www.linkedin.com/in/william-brisa-b296b3180/) | Lightning Talk | `#mlops` | | | |
+| 1 | Jul 9, 2026 | Intro to Locos de la IA | Pedro Bisbal | Lightning Talk | `#open-source` | [Slides](slides/Presentación-Los-Locos-de-la-IA.pdf) | [Video](https://youtu.be/d21dI2wdWgg) | |
+| 2 | Jul 9, 2026 | Booting into Kubernetes with an Immutable OS | [Santiago Merlos](https://www.linkedin.com/in/smerlos/) | Session | `#kubernetes-core` `#platform-engineering` | | [Video](https://youtu.be/d21dI2wdWgg) | |
+| 3 | Jul 9, 2026 | The Life of a Metric | [Jesús Espino](https://www.linkedin.com/in/jesus-espino/) | Session | `#observability` | [Slides](slides/Life-of-a-Metric-by-Jesus-Espino.pdf) | [Video](https://youtu.be/d21dI2wdWgg) | |
+| 4 | Jul 9, 2026 | The New Paradigm of AI Development | [William Brisa](https://www.linkedin.com/in/william-brisa-b296b3180/) | Lightning Talk | `#mlops` | | [Video](https://youtu.be/d21dI2wdWgg) | |
 | 5 | Apr 23, 2026 | Surviving Day 2: Picking the Right Tool to Secure Your Kubernetes Habitat | [Bruno Gabriel da Silva](https://www.linkedin.com/in/bgsilvait/) | Session | `#security` `#kubernetes-core` | [Slides](slides/Surviving-Day-2-Picking-the-Right-Tool-Bruno-Gabriel-da-Silva.pdf) | | |
 | 6 | Apr 23, 2026 | Intro to vLLM and Project Update | [Nelson Paez](https://www.linkedin.com/in/nelson-lombo-paez-a91146155/) | Session | `#mlops` | | | |
 | 7 | Apr 23, 2026 | Building a Self-Healing Platform on Kubernetes | [Shani Kazaz](https://www.linkedin.com/in/shani-kazaz/) | Session | `#platform-engineering` `#kubernetes-core` | | | |
