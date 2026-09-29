@@ -17,19 +17,20 @@ Here you’ll find slides, video recordings, code samples, and additional resour
 
 | # | Event | Title | Speaker(s) | Type | Topics | Slides | Video | Code |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Jul 9, 2026 | Intro to Locos de la IA | Pedro Bisbal | Lightning Talk | `#open-source` | [Slides](slides/Presentación-Los-Locos-de-la-IA.pdf) | [Video](https://youtu.be/d21dI2wdWgg) | |
-| 2 | Jul 9, 2026 | Booting into Kubernetes with an Immutable OS | [Santiago Merlos](https://www.linkedin.com/in/smerlos/) | Session | `#kubernetes-core` `#platform-engineering` | | [Video](https://youtu.be/d21dI2wdWgg) | |
-| 3 | Jul 9, 2026 | The Life of a Metric | [Jesús Espino](https://www.linkedin.com/in/jesus-espino/) | Session | `#observability` | [Slides](slides/Life-of-a-Metric-by-Jesus-Espino.pdf) | [Video](https://youtu.be/d21dI2wdWgg) | |
-| 4 | Jul 9, 2026 | The New Paradigm of AI Development | [William Brisa](https://www.linkedin.com/in/william-brisa-b296b3180/) | Lightning Talk | `#mlops` | | [Video](https://youtu.be/d21dI2wdWgg) | |
-| 5 | Apr 23, 2026 | Surviving Day 2: Picking the Right Tool to Secure Your Kubernetes Habitat | [Bruno Gabriel da Silva](https://www.linkedin.com/in/bgsilvait/) | Session | `#security` `#kubernetes-core` | [Slides](slides/Surviving-Day-2-Picking-the-Right-Tool-Bruno-Gabriel-da-Silva.pdf) | [Video](https://youtu.be/tC2Dj4YpsXY?si=UtlPZ2VBU-a-m9Sa) | |
-| 6 | Apr 23, 2026 | Intro to vLLM and Project Update | [Nelson Paez](https://www.linkedin.com/in/nelson-lombo-paez-a91146155/) | Session | `#mlops` | | [Video](https://youtu.be/tC2Dj4YpsXY?si=UtlPZ2VBU-a-m9Sa) | |
-| 7 | Apr 23, 2026 | Building a Self-Healing Platform on Kubernetes | [Shani Kazaz](https://www.linkedin.com/in/shani-kazaz/) | Session | `#platform-engineering` `#kubernetes-core` | | [Video](https://youtu.be/tC2Dj4YpsXY?si=UtlPZ2VBU-a-m9Sa) | |
-| 8 | Nov 27, 2025 | Open Source Cloud-Native Observability with VictoriaMetrics and OpenTelemetry | [Diana Todea](https://www.linkedin.com/in/diana-todea-b2a79968/) | Session | `#observability` `#open-source` | [Slides](slides/OSS-Cloud-Native-Observability-with-VictoriaMetrics-and-OTel_Diana-Todea.pdf) | [Video](https://youtu.be/KbvaQfPoUCQ?si=ZkiDtydOnyWTwnPZ) | |
-| 9 | Nov 27, 2025 | Kubernetes and AI to Protect Our Forests: A Cloud Native Infrastructure for Wildfire Prevention | [Andrea Giardini](https://www.linkedin.com/in/giardiniandrea/) | Session | `#kubernetes-core` `#mlops` | [Slides](slides/Kubernetes-and-AI-To-Protect-Our-Forests_Andrea-Giardini.pdf) | [Video](https://youtu.be/KbvaQfPoUCQ?si=ZkiDtydOnyWTwnPZ) | |
-| 10 | Nov 27, 2025 | Incubadora IATecUV — FPCUV (Fundación Parc Científic de la Universitat de València) | [Israel Juma](https://www.linkedin.com/in/israel-juma-435962b7), Anna Aguilar | Session | `#open-source` | [Slides](slides/Incubadora-IatecUV_Israel-Juma.pdf) | [Video](https://youtu.be/KbvaQfPoUCQ?si=ZkiDtydOnyWTwnPZ) | |
-| 11 | May 8, 2025 | InstructLab – A Community-Based Approach to Building Open-Source LLMs | [Mario Vazquez](https://www.linkedin.com/in/mariovazquezcebrian/) | Session | `#mlops` `#open-source` | [Slides](slides/Introduction-to-LLM-Fine-Tuning-with-InstructLab.pdf) | | |
-| 12 | May 8, 2025 | KubeCon EU 2025 Recap & What You Missed from the Event | [Chad M. Crowell](https://linkedin.com/in/chadmcrowell) | Session | `#open-source` `#kubernetes-core` | [Slides](slides/KubeCon-EU-25-Recap-Chad-M-Crowell.pdf) | | |
-| 13 | Jan 23, 2025 | OpenTelemetry Workshop: Why OTLP Matters, and Where to Start | [Juliano Costa](https://www.linkedin.com/in/julianocosta89/) | Workshop | `#observability` `#workshops` | | | |
+| 1 | Oct 1, 2026 | Application Consistent Data Protection with Kanister and Veeam Kasten | Pietro Piutti | Session | `#kubernetes-core` `#open-source` | [Slides](slides/Kanister-and-Kasten-Pietro-Piutti.pdf) | | [Code](code/postgres-bp-ocp-Pietro-Piutti.yaml) |
+| 2 | Jul 9, 2026 | Intro to Locos de la IA | Pedro Bisbal | Lightning Talk | `#open-source` | [Slides](slides/Presentación-Los-Locos-de-la-IA.pdf) | [Video](https://youtu.be/d21dI2wdWgg) | |
+| 3 | Jul 9, 2026 | Booting into Kubernetes with an Immutable OS | [Santiago Merlos](https://www.linkedin.com/in/smerlos/) | Session | `#kubernetes-core` `#platform-engineering` | | [Video](https://youtu.be/d21dI2wdWgg) | |
+| 4 | Jul 9, 2026 | The Life of a Metric | [Jesús Espino](https://www.linkedin.com/in/jesus-espino/) | Session | `#observability` | [Slides](slides/Life-of-a-Metric-by-Jesus-Espino.pdf) | [Video](https://youtu.be/d21dI2wdWgg) | |
+| 5 | Jul 9, 2026 | The New Paradigm of AI Development | [William Brisa](https://www.linkedin.com/in/william-brisa-b296b3180/) | Lightning Talk | `#mlops` | | [Video](https://youtu.be/d21dI2wdWgg) | |
+| 6 | Apr 23, 2026 | Surviving Day 2: Picking the Right Tool to Secure Your Kubernetes Habitat | [Bruno Gabriel da Silva](https://www.linkedin.com/in/bgsilvait/) | Session | `#security` `#kubernetes-core` | [Slides](slides/Surviving-Day-2-Picking-the-Right-Tool-Bruno-Gabriel-da-Silva.pdf) | [Video](https://youtu.be/tC2Dj4YpsXY?si=UtlPZ2VBU-a-m9Sa) | |
+| 7 | Apr 23, 2026 | Intro to vLLM and Project Update | [Nelson Paez](https://www.linkedin.com/in/nelson-lombo-paez-a91146155/) | Session | `#mlops` | | [Video](https://youtu.be/tC2Dj4YpsXY?si=UtlPZ2VBU-a-m9Sa) | |
+| 8 | Apr 23, 2026 | Building a Self-Healing Platform on Kubernetes | [Shani Kazaz](https://www.linkedin.com/in/shani-kazaz/) | Session | `#platform-engineering` `#kubernetes-core` | | [Video](https://youtu.be/tC2Dj4YpsXY?si=UtlPZ2VBU-a-m9Sa) | |
+| 9 | Nov 27, 2025 | Open Source Cloud-Native Observability with VictoriaMetrics and OpenTelemetry | [Diana Todea](https://www.linkedin.com/in/diana-todea-b2a79968/) | Session | `#observability` `#open-source` | [Slides](slides/OSS-Cloud-Native-Observability-with-VictoriaMetrics-and-OTel_Diana-Todea.pdf) | [Video](https://youtu.be/KbvaQfPoUCQ?si=ZkiDtydOnyWTwnPZ) | |
+| 10 | Nov 27, 2025 | Kubernetes and AI to Protect Our Forests: A Cloud Native Infrastructure for Wildfire Prevention | [Andrea Giardini](https://www.linkedin.com/in/giardiniandrea/) | Session | `#kubernetes-core` `#mlops` | [Slides](slides/Kubernetes-and-AI-To-Protect-Our-Forests_Andrea-Giardini.pdf) | [Video](https://youtu.be/KbvaQfPoUCQ?si=ZkiDtydOnyWTwnPZ) | |
+| 11 | Nov 27, 2025 | Incubadora IATecUV — FPCUV (Fundación Parc Científic de la Universitat de València) | [Israel Juma](https://www.linkedin.com/in/israel-juma-435962b7), Anna Aguilar | Session | `#open-source` | [Slides](slides/Incubadora-IatecUV_Israel-Juma.pdf) | [Video](https://youtu.be/KbvaQfPoUCQ?si=ZkiDtydOnyWTwnPZ) | |
+| 12 | May 8, 2025 | InstructLab – A Community-Based Approach to Building Open-Source LLMs | [Mario Vazquez](https://www.linkedin.com/in/mariovazquezcebrian/) | Session | `#mlops` `#open-source` | [Slides](slides/Introduction-to-LLM-Fine-Tuning-with-InstructLab.pdf) | | |
+| 13 | May 8, 2025 | KubeCon EU 2025 Recap & What You Missed from the Event | [Chad M. Crowell](https://linkedin.com/in/chadmcrowell) | Session | `#open-source` `#kubernetes-core` | [Slides](slides/KubeCon-EU-25-Recap-Chad-M-Crowell.pdf) | | |
+| 14 | Jan 23, 2025 | OpenTelemetry Workshop: Why OTLP Matters, and Where to Start | [Juliano Costa](https://www.linkedin.com/in/julianocosta89/) | Workshop | `#observability` `#workshops` | | | |
 
 ---
 
@@ -116,6 +117,7 @@ Subscribe to get notified when recordings go live.
 
 | Event | Date | Archive |
 | --- | --- | --- |
+| Oct 2026 | October 1, 2026 | You are here |
 | Jul 2026 | July 9, 2026 | You are here |
 | Apr 2026 | April 23, 2026 | You are here |
 | Nov 2025 | November 27, 2025 | You are here |
